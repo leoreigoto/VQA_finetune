@@ -323,14 +323,6 @@ Próximos passos:
 - Retestar experimento 2 com learning rate menor (parece estar dando overfit)
 
 
-Github:
+HF Space (Deploy com gradio - Experimento 3): https://huggingface.co/spaces/leoreigoto/BLIP2_Fashion
 
-HuggingFaces Space (Deploy com gradio: baseline BLIP e  Experimento 2 + mdeberta Q&): https://huggingface.co/spaces/leoreigoto/BLIP2_Fashion
 
-HuggingFaces model:
-- Finetune Caption Experimento 2:
-  - leoreigoto/Data2_V2_BLIP2_Finetune_Caption_First_Epoch
-  - leoreigoto/Data2_V2_Blip2_Finetune_Caption"
-
-- Finetune VQA Experimento 4 (não funcionou):
-   - leoreigoto/Data3_V3_BLIP2_VQA
